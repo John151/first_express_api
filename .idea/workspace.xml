@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4dd3cd4-4538-490e-a781-55323b34cd13" name="Default Changelist" comment="removed directory" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-vue" />
+  </component>
+  <component name="ProjectId" id="1ktdX6jqYwrgU3ThUNeyTuDYucd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-vue" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luck7\Desktop\School\Fall2020\Web\first_express_api\hello-vue" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4dd3cd4-4538-490e-a781-55323b34cd13" name="Default Changelist" comment="" />
+      <changelist id="" name="everything" comment="" />
+      <created>1606523857833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606523857833</updated>
+      <workItem from="1606523858873" duration="11289000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit before moving to heroku">
+      <created>1606551906776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606551906776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed directory">
+      <created>1606553184409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606553184409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit before moving to heroku" />
+    <MESSAGE value="removed directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="119" key="FileChooserDialogImpl" timestamp="1606553132872">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="689" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1606553132872" />
+    <state x="816" y="284" key="Github.CreateGistDialog" timestamp="1606551772326">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="816" y="284" key="Github.CreateGistDialog/0.0.1360.728@0.0.1360.728" timestamp="1606551772326" />
+    <state x="677" y="233" key="VCS.EditChangelistDialog" timestamp="1606552553624">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="677" y="233" key="VCS.EditChangelistDialog/0.0.1360.728@0.0.1360.728" timestamp="1606552553624" />
+    <state x="368" y="65" width="959" height="560" key="Vcs.Push.Dialog.v2" timestamp="1606553639714">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="368" y="65" width="959" height="560" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1606553639714" />
+  </component>
+</project>
